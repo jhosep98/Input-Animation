@@ -11,6 +11,11 @@ body {
   align-items: center;
   flex-direction: column;
   font-family: sans-serif;
+  background: #fafafa; /* fallback for old browsers */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1.main-title {
+  font-family: "Baloo Tammudu 2", cursive;
 }
 
 .form {
